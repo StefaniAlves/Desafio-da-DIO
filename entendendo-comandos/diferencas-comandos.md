@@ -1,14 +1,14 @@
 ### Exemplo de alguns comandos do git : 
 
-_Ações_                                     _Windows_                   _Linux_
+_Ações_                       |              _Windows_         &          _Linux_
 
-Navegar entre pastas  			cd							cs
+Navegar entre pastas  -			cd				|			cs
 
-Listar as pastas						 dir							ls
+Listar as pastas			-			 dir				|			ls
 
-Criar pasta						 		mkdir					  mkdir	
+Criar pasta				-		 		mkdir			|		  mkdir	
 
-Mover arquivo						   mv						   mv
+Mover arquivo				-		   mv					|	   mv
 
 
 
